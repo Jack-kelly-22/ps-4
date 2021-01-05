@@ -1,0 +1,4 @@
+pip install porespy
+pip install dash
+pip install dash_bootstrap_components
+pip install opencv-python
